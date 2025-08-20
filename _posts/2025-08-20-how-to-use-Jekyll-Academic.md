@@ -1,7 +1,7 @@
 ---
 title: 'Academic 博客系统的使用'
 date: 2025-08-20
-permalink: /posts/2025/08/blog-post-4/
+permalink: /posts/2025/08/how-to-use-Jekyll-Academic/
 tags:
   - 网站
 ---
