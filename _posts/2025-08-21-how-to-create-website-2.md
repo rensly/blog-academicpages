@@ -7,6 +7,8 @@ tags:
   - 网站
 ---
 
+（2）再回过头来看我写的[新手入门](https://new.web.cafe/tutorial/7c36c9a7c6e34d21b8f3efd857d980aa)
+
 [出海工具网站，从需求挖掘到网站制作全流程，让你一篇文章学会](https://new.web.cafe/tutorial/detail/7fd1eef2eb754b9f860b65ca185c0023)
 同进阶第一篇
 
@@ -345,45 +347,3 @@ AI 贴纸生成网站 StickerBaker.com
 整个过程看下来，Twitter 传播威力依然巨大，值得大家去运营维护好自己的 Twitter 账号。
 整套运营推广策略，是不是跟妙鸭相机很像，妙鸭相机在小红书招募内测用户，并且在公测后扩散开来，之后也在别的社交平台如即刻刷屏。
 **这其中投放软文是值得我们学习的增长方式，先让媒体帮忙扩散，之后利用社交网络放大和裂变。**
-
-```
-给大家列了一下学习指南
-新手入门，先把这个 Ahrefs 的公开课程过一遍 https://ahrefs.com/zh/seo 。
-不需要读懂，大概读一遍，了解一下SEO的概念就行。
-
-（1）然后看这个进阶教程，这个阶段也不需要仔细研究，就是看，就是了解。
-https://new.web.cafe/tutorial/0c91c83924e9495aa75384becf6304ff
-
-（2）再回过头来看我写的新手入门
-https://new.web.cafe/tutorial/7c36c9a7c6e34d21b8f3efd857d980aa
-
-（3）之后再看挖掘需求相关的教程
-https://new.web.cafe/tutorial/89afd4d0414d41e6b5f9304ee42df055
-
-https://new.web.cafe/tutorial/detail/fp0zl0dtob
-
-（4）再看如何判断关键词是否可做
-https://new.web.cafe/tutorial/detail/7v7tfjneg9
-
-https://new.web.cafe/search?q=%E5%88%A4%E6%96%AD
-
-再看上站之后要做什么；再次详解谷歌搜索排名；以月收入$50k的网站为例说明
-https://new.web.cafe/tutorial/detail/sk5je1bj0f
-
-（5）再看工具落地页要如何设计
-https://new.web.cafe/tutorial/detail/5yyr7zjxk7
-
-再聊基于精品工具页面思路，如何做精品工具站
-https://new.web.cafe/tutorial/detail/za408lc1q9
-
-（6）最后跟着养网站防老系列走一遍全流程，也可以先看教程，看完一遍之后再跟着一步一步走
-https://new.web.cafe/tutorial/7PG1iQzr3sXx1tyKmf9ZYd
-
-（7）加外链，博客评论外链依然还有用
-https://new.web.cafe/experience/ao30ki8tzk
-
-https://new.web.cafe/topic/xoi32sha0d
-
-教程栏目，都值得学习
-https://new.web.cafe/tutorials
-```
