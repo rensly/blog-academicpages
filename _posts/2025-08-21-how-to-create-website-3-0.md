@@ -38,7 +38,7 @@ Semrush 查 vc.ru 的出站域名
 
 最后得到的数据，我就可以用各种查询条件来限定，如查询 7 月份注册的新域名，谷歌收录了的，Archive 收录了的，流量大于多少的，之后再按照流量排序或者按照注册时间排序。
 
-[51 个挖掘需求时能用得上的财富密码关键词免费赠送给大家](https://new.web.cafe/tutorial/detail/2kk1hukGPXDZfr6Ra5Ciiy)
+# [51 个挖掘需求时能用得上的财富密码关键词免费赠送给大家](https://new.web.cafe/tutorial/detail/2kk1hukGPXDZfr6Ra5Ciiy)
 
 ```
 1、Translator（翻译器）：
@@ -231,13 +231,13 @@ Semrush 查 vc.ru 的出站域名
 常见搭配：Emergency Responder、Customer Support Responder、Automated Responder
 ```
 
-[通过分析月访问量 2445 万的 Gumroad 高流量页面来挖掘他人正在赚钱的需求](https://new.web.cafe/tutorial/detail/aYfEzr44YKgXFLfNoSMkfL)
+# [通过分析月访问量 2445 万的 Gumroad 高流量页面来挖掘他人正在赚钱的需求](https://new.web.cafe/tutorial/detail/aYfEzr44YKgXFLfNoSMkfL)
 
 Gumroad ，这是一个海外虚拟产品销售平台，卖家简单设置就可以得到一个链接，然后到处去宣传推广，别人从链接点进去，就能够购买产品。
 
 打开 Semrush ，输入 Gumroad.com ，点击流量分析，点击主要页面，然后就可以针对查询出来的结果进行分析了。
 
-[以月访问量 1.75 亿的 Character.ai 为例，教你如何挖掘大流量网站的新流量机会](https://new.web.cafe/tutorial/detail/1afYY3YjTnWv4gaLG6Hhxi)
+# [以月访问量 1.75 亿的 Character.ai 为例，教你如何挖掘大流量网站的新流量机会](https://new.web.cafe/tutorial/detail/1afYY3YjTnWv4gaLG6Hhxi)
 Character.ai
 打开 Similarweb 的“自然落地页”功能，就可以看到按照访问量从高到低排序的各个不同的页面。
 可以看到前几个大流量页面的关键词都是品牌词，但是第 6、第 9 等页面就不是品牌词了。
@@ -246,7 +246,7 @@ Character.ai
 
 鼠标放到**“新页面”**会有提示，说这些页面是从上个月开始有流量的页面。
 
-[https://new.web.cafe/tutorial/detail/oDAuhzcqNiar5JMZkmn2fu](某个月访问量 3000 多万的网站里有个月访问量 118 万的页面，有人基于这个页面的需求做了个月收入 12 万+美金的 AI App)
+# [某个月访问量 3000 多万的网站里有个月访问量 118 万的页面，有人基于这个页面的需求做了个月收入 12 万+美金的 AI App](https://new.web.cafe/tutorial/detail/oDAuhzcqNiar5JMZkmn2fu)
 RIZZ
 
 事情要先从 Pinterest.com 说起，这个图片分享社区月访问量已经达到了 11 亿
@@ -276,7 +276,7 @@ pick-up-lines
 这个关键词是“inches to cm”和“inch to cm”
 跟着大流量的关键词，即使排名没到前三，也可以吃到不错的汤水
 
-[利用 Semrush 找有一定搜索量且竞争小的关键词时容易遇到的一些陷阱](https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw)
+# [利用 Semrush 找有一定搜索量且竞争小的关键词时容易遇到的一些陷阱](https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw)
 
 不是所有的陷阱词都不能做，还是要看搜索量的。
 我们先看下搜索结果中出现的 inches-to-cm.com 的流量，月访问量 24 万，虽然不是特别大，但是也还不错了。
