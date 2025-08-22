@@ -1,7 +1,7 @@
 ---
 title: '（3）之后再看挖掘需求相关的教程'
 date: 2025-08-21
-permalink: /posts/2025/08/how-to-create-website-3
+permalink: /posts/2025/08/how-to-create-website-3-0
 published: false
 tags:
   - 网站
@@ -9,34 +9,6 @@ tags:
 
 （3）之后再看挖掘需求相关的教程
 https://new.web.cafe/tutorial/89afd4d0414d41e6b5f9304ee42df055
-
----
-
-# [哥飞文字教程解析小白怎么找词](https://new.web.cafe/tutorial/detail/fp0zl0dtob)
-
-**重点**
-找词，词根
-ai doll generator 新词，相关推荐--同时期，同类型 curve rush
-ai --谷歌趋势，相关推荐，上升热度 搜索量上升，--一直点，
-https://new.web.cafe/tutorial/detail/0vz7te71m0
-https://new.web.cafe/tutorial/detail/lmlpg7ae96
-基于哥飞找词 8 种方式的找词教程，重点是在谷歌趋势中找词的方法。
-
-具体如下： 谷歌趋势找词方法：基于已知根词，如 AI，查看相关推荐、相关主题等，
-
-点开可能做成工具或应用的相关词，关注搜索上升量，不相关的词无需纠结。遇到问题可换词。
-
-新词扩展找词：通过新词作为根词，在谷歌趋势中调小时间查看相关推荐、相关查询等，扩展出来的词可作为新词或根词。
-
-根词筛选与维护：将每个可能的根词复制保存列表，以 7 天或 30 天为周期查询，能扩展出新词则保留，不能则舍弃，不断添加新根词并筛选，维护根词列表。
-
-根词的条件：根词要满足通用性，期望能从中扩展出新词，但不确定时先复制保存进行查询观察。
-
-竞争强度判断：对于已在公众号公开、竞争强度大、域名被大量注册的词，不建议选用。
-
-时间节点判断：查看词出现的时间节点，判断其是否为新词，以此作为找词和扩展的依据。
-
-https://namebeta.com/ 域名比价
 
 ---
 
@@ -288,7 +260,7 @@ Semrush.com - 主要页面
 去谷歌搜索这个关键词，结果如下。
 
 pick-up-lines
-这个网页的内容优化也用到了哥飞之前讲过的站内页面优化六字真言“分门别类罗列”。
+这个网页的内容优化也用到了之前讲过的站内页面优化六字真言“分门别类罗列”。
 
 这个页面的主关键词是“Pick Up Lines”，可以理解为土味情话。 有个名叫 Rizz 的 AI App 就是主打这个功能的，月收入 10 万+美元了。
 
@@ -311,7 +283,7 @@ pick-up-lines
 
 # [通过查看 vercel.app 的子域名发现新需求、新关键词](https://new.web.cafe/tutorial/detail/beYVJMzigPiWFuSpHKYyX3)
 
-打开 Similarweb ，查询 vcrcel.app ，查看自然落地页，选择最近几个月（哥飞这里选择的是最近 12 个月，你也可以选择最近 1 个月），勾选“新发现”这个过滤条件。
+打开 Similarweb ，查询 vcrcel.app ，查看自然落地页，选择最近几个月（这里选择的是最近 12 个月，你也可以选择最近 1 个月），勾选“新发现”这个过滤条件。
 链接是： https://pro.similarweb.com/#/digitalsuite/websiteanalysis/organic-landing-pages/*/999/12m?webSource=Desktop&IncludeNewPages=true&key=vercel.app
 
 # [对于我们来说，尽快多赚点美元可能是最适合我们的方案。](https://new.web.cafe/tutorial/detail/4zH66cGDYsE8vAXyhEuAuQ)
@@ -320,7 +292,7 @@ pick-up-lines
 
 如果你暂时不知道要做什么网站，那就先部署一个 Wordpress，写上十几篇原创博文，然后去申请 Adsense 账号，这样更容易通过。
 
-# [哥飞解读：年收入 1400 万美元的一人公司为何这么赚？](https://new.web.cafe/tutorial/detail/62rEqHuhk2iSPGprEQtVe4)
+# [解读：年收入 1400 万美元的一人公司为何这么赚？](https://new.web.cafe/tutorial/detail/62rEqHuhk2iSPGprEQtVe4)
 
 如果你对原文感兴趣，可以打开这个链接查看 https://www.the5to9.xyz/p/builtwith-generates-14-million-year-zero-employees 。
 
@@ -337,7 +309,7 @@ Wanttofind alistofsuccessful nichesites?
 3.Viewthelistof sitesrunningthese ads.
 ```
 
-哥飞给大家解释下，Mediavine 和 AdThrive 都是帮助内容创作者通过数字广告获取收入的公司，另外说下 AdThrive 与 CafeMedia 合并后成立了新品牌 Raptive ，所以你搜索时还可以搜索 Raptive 。
+给大家解释下，Mediavine 和 AdThrive 都是帮助内容创作者通过数字广告获取收入的公司，另外说下 AdThrive 与 CafeMedia 合并后成立了新品牌 Raptive ，所以你搜索时还可以搜索 Raptive 。
 
 也就是说，因为网站放置了 Mediavine 或者 AdThrive 的广告代码，就表明网站能赚钱，那么我们找到这些网站，就能够去找到这些赚钱的网站，然后去模仿。
 
@@ -370,7 +342,7 @@ Wanttofind alistofsuccessful nichesites?
 一个是完全免费的流量，靠着 SEO 从搜索引擎来，
 二是付费流量，去投广告获取精准用户。
 
-从成本角度考虑，哥飞推荐大家先从免费流量开始，也就是从 SEO 开始。因为 SEO 即使不成功，也只是浪费一些你的时间而已，而如果是投放广告，很有可能就是浪费钱财。
+从成本角度考虑，推荐大家先从免费流量开始，也就是从 SEO 开始。因为 SEO 即使不成功，也只是浪费一些你的时间而已，而如果是投放广告，很有可能就是浪费钱财。
 
 # [上站，上站，朋友们请上站！想要赚美元就多上站！](https://new.web.cafe/tutorial/detail/byVyDasjfDBssYMwijjzGb)
 
