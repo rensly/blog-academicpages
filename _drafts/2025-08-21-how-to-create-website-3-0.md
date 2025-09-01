@@ -275,29 +275,26 @@ pick-up-lines
 
 这个关键词是“inches to cm”和“inch to cm”
 跟着大流量的关键词，即使排名没到前三，也可以吃到不错的汤水
-
-# [利用 Semrush 找有一定搜索量且竞争小的关键词时容易遇到的一些陷阱](https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw)
-
+[利用 Semrush 找有一定搜索量且竞争小的关键词时容易遇到的一些陷阱](https://mp.weixin.qq.com/s/r0H48GssICrKbP8YePIuqw)
 不是所有的陷阱词都不能做，还是要看搜索量的。
 我们先看下搜索结果中出现的 inches-to-cm.com 的流量，月访问量 24 万，虽然不是特别大，但是也还不错了。
 
 # [通过查看 vercel.app 的子域名发现新需求、新关键词](https://new.web.cafe/tutorial/detail/beYVJMzigPiWFuSpHKYyX3)
 
-打开 Similarweb ，查询 vcrcel.app ，查看自然落地页，选择最近几个月（这里选择的是最近 12 个月，你也可以选择最近 1 个月），勾选“新发现”这个过滤条件。
+打开 Similarweb ，查询 vcrcel.app ，查看自然落地页，
+选择最近几个月（这里选择的是最近 12 个月，你也可以选择最近 1 个月），
+勾选“新发现”这个过滤条件。
 链接是： https://pro.similarweb.com/#/digitalsuite/websiteanalysis/organic-landing-pages/*/999/12m?webSource=Desktop&IncludeNewPages=true&key=vercel.app
 
 # [对于我们来说，尽快多赚点美元可能是最适合我们的方案。](https://new.web.cafe/tutorial/detail/4zH66cGDYsE8vAXyhEuAuQ)
 
 大牛猫原文在这里： https://mp.weixin.qq.com/s/E2KO3aj1nABxBaXaNjBz-w
-
 如果你暂时不知道要做什么网站，那就先部署一个 Wordpress，写上十几篇原创博文，然后去申请 Adsense 账号，这样更容易通过。
 
 # [解读：年收入 1400 万美元的一人公司为何这么赚？](https://new.web.cafe/tutorial/detail/62rEqHuhk2iSPGprEQtVe4)
 
 如果你对原文感兴趣，可以打开这个链接查看 https://www.the5to9.xyz/p/builtwith-generates-14-million-year-zero-employees 。
-
 BuiltWith.com 这个网站，年收入 1400 万美元，但其实只有一个员工，就是创始人自己。
-
 从 BuiltWith 的相似站点看到的。
 这说明什么？
 这说明 BuiltWith 做的也是卖销售线索的生意，因为用户可以通过 BuiltWith 找到潜在的顾客信息，所以用户才愿意为 BuiltWith 付费。
